@@ -1,5 +1,5 @@
 # MFC-Basic-calculator-for-beginner
-C++ MFC simple calculator for beginner
+C++ MFC 
 
 A very basic calculator for beginer. 10 number buttons, clear and 5 operator buttons.
 
